@@ -1,5 +1,5 @@
 <h1>oi, me chamo André Luis</h1>
-<p>Estou atualmente cursando Analise e Desenvolvimento de Sistemas e Aprendendo o ADVPL</p>
+<p>Estou atualmente cursando Analise e Desenvolvimento de Sistemas e Aprendendo a liguagem ADVPL</p>
 <h2>🚀Algumas linguagens e ferramentas que já utilizei</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
